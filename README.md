@@ -25,3 +25,6 @@
 [클린 아키텍처와 함께하는 배민앱](https://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html) - 우아한 형제들 기술 블로그
 
 [ViewPager2 파헤치기](https://blog.gangnamunni.com/post/viewpager2) - 강남언니 기술 블로그
+
+[TDDDDD 안드로이드에서 가능할까?](https://blog.gangnamunni.com/post/TDDDD_Android) - 강남언니 기술 블로그
+
