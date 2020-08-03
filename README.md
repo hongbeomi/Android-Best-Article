@@ -14,3 +14,4 @@
 
 [Kotlin Anti Pattern](http://pluu.github.io/blog/android/droidkaigi/2018/02/15/droidkaigi-kotlin-anti-pattern/) - Pluu님
 
+[Android Animation 11% 더 활용하기](https://speakerdeck.com/fornewid/android-animation-11-percent-deo-hwalyonghagi?slide=20) - SOUP님
