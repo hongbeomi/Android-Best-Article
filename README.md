@@ -15,3 +15,6 @@
 [Kotlin Anti Pattern](http://pluu.github.io/blog/android/droidkaigi/2018/02/15/droidkaigi-kotlin-anti-pattern/) - Pluu님
 
 [Android Animation 11% 더 활용하기](https://speakerdeck.com/fornewid/android-animation-11-percent-deo-hwalyonghagi?slide=20) - SOUP님
+
+[Dagger 아닌 Hilt로 Android DI 하기](https://speakerdeck.com/maryang/dagger-anin-hiltro-android-di-hagi) - 이승민님
+
