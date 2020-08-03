@@ -1,8 +1,6 @@
 # Android Best Article
 
-```
-[![HitCount](http://hits.dwyl.com/hongbeomi/Android-Best-Article.svg)](http://hits.dwyl.com/hongbeomi/Android-Best-Article)
-```
+![HitCount](http://hits.dwyl.com/hongbeomi/Android-Best-Article.svg)
 
 > **안드로이드 관련 아티클 저장소입니다.**
 
