@@ -18,6 +18,10 @@
 
 [Dagger 아닌 Hilt로 Android DI 하기](https://speakerdeck.com/maryang/dagger-anin-hiltro-android-di-hagi) - 이승민님
 
+[오픈 소스 라이브러리 쉽게 배포하기 - JitPack](https://www.androidhuman.com/tip/2016/09/09/deploy_artifacts_with_jitpack/) - 커니님
+
+</br>
+
 [테스트 코드, 안드로이드에서는 어떻게 작성해야 할까?](https://blog.banksalad.com/tech/test-in-banksalad-android/) - BankSalad 기술 블로그
 
 [메뉴 검색과 퀙메뉴 개발기](https://woowabros.github.io/experience/2019/02/25/android-improve_shop-menu-explore_1.html) - 우아한 형제들 기술 블로그
