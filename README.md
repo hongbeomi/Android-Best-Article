@@ -4,7 +4,7 @@
 
 <br/>
 
-## 개인 블로그 
+## 개인 아티클 
 
 [Android-Fundamental](https://github.com/ZeroBrain/Android-Fundamental) - ZeroBrain님
 
@@ -19,6 +19,10 @@
 [Dagger 아닌 Hilt로 Android DI 하기](https://speakerdeck.com/maryang/dagger-anin-hiltro-android-di-hagi) - 이승민님
 
 [오픈 소스 라이브러리 쉽게 배포하기 - JitPack](https://www.androidhuman.com/tip/2016/09/09/deploy_artifacts_with_jitpack/) - 커니님
+
+[ViewModel이란 무언인가? ViewModel 초보를 위한 가이드](https://www.charlezz.com/?p=44167) - Charlezz님
+
+
 
 </br>
 
