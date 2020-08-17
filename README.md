@@ -22,7 +22,7 @@
 
 [ViewModel이란 무언인가? ViewModel 초보를 위한 가이드](https://www.charlezz.com/?p=44167) - Charlezz님
 
-
+[번역-코틀린 코루틴의 패턴과 안티패턴](https://medium.com/harrythegreat/%EB%B2%88%EC%97%AD-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0%ED%8C%A8%ED%84%B4-6e97f852ea2d) - Charlezz님
 
 </br>
 
