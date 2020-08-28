@@ -4,27 +4,25 @@
 
 <br/>
 
-## 개인 아티클 
+## 아티클
 
 [Android-Fundamental](https://github.com/ZeroBrain/Android-Fundamental) - ZeroBrain님
-
-[알아두면 쓸모있는 신비한 안드로이드 지식 9가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94-%EC%8B%A0%EB%B9%84%ED%95%9C-%EC%9E%A1%ED%95%99%EC%A7%80%EC%8B%9D-9%EA%B0%80%EC%A7%80-2948f60ccdbb)- Ted Park님
-
-[앱 안의 개발자모드로 기획자/QA팀과 편하게 일하기](https://medium.com/prnd/%EC%95%B1%EC%95%88%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EB%93%9C-%EB%A1%9C-%EA%B8%B0%ED%9A%8D%EC%9E%90-qa%ED%8C%80-%EA%B3%BC-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%9D%BC%ED%95%98%EA%B8%B0-4f4794ee5cb6) - Ted Park님
-
-[Kotlin Anti Pattern](http://pluu.github.io/blog/android/droidkaigi/2018/02/15/droidkaigi-kotlin-anti-pattern/) - Pluu님
 
 [Android Animation 11% 더 활용하기](https://speakerdeck.com/fornewid/android-animation-11-percent-deo-hwalyonghagi?slide=20) - SOUP님
 
 [Dagger 아닌 Hilt로 Android DI 하기](https://speakerdeck.com/maryang/dagger-anin-hiltro-android-di-hagi) - 이승민님
 
-[오픈 소스 라이브러리 쉽게 배포하기 - JitPack](https://www.androidhuman.com/tip/2016/09/09/deploy_artifacts_with_jitpack/) - 커니님
+<br/>
 
-[ViewModel이란 무언인가? ViewModel 초보를 위한 가이드](https://www.charlezz.com/?p=44167) - Charlezz님
+## 개인 블로그 
 
-[번역-코틀린 코루틴의 패턴과 안티패턴](https://medium.com/harrythegreat/%EB%B2%88%EC%97%AD-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0%ED%8C%A8%ED%84%B4-6e97f852ea2d) - Charlezz님
+[Pluu님의 블로그](https://pluu.github.io/)
 
-[PhotoView 제작자로 유명한 Chris Banes님의 개인 블로그](https://chris.banes.dev/) - Chris Banes님
+[TedPark님의 미디엄 블로그](https://medium.com/@gun0912)
+
+[Charlezz님의 블로그](https://www.charlezz.com/)
+
+[PhotoView 제작자로 유명한 Chris Banes님의 개인 블로그](https://chris.banes.dev/) 
 
 </br>
 
