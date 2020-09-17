@@ -18,6 +18,8 @@
 
 [Pluu님의 블로그](https://pluu.github.io/)
 
+[이우춘님의 블로그](https://uchun.dev/)
+
 [TedPark님의 미디엄 블로그](https://medium.com/@gun0912)
 
 [Charlezz님의 블로그](https://www.charlezz.com/)
