@@ -12,6 +12,8 @@
 
 [Dagger 아닌 Hilt로 Android DI 하기](https://speakerdeck.com/maryang/dagger-anin-hiltro-android-di-hagi) - 이승민님
 
+[RecyclerView에서 텍스트 레이아웃 미리 계산하기](https://developers-kr.googleblog.com/2018/08/prefetch-text-layout-in-recyclerview.html) 
+
 <br/>
 
 ## 개인 블로그 
