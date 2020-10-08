@@ -28,6 +28,8 @@
 
 [PhotoView 제작자로 유명한 Chris Banes님의 개인 블로그](https://chris.banes.dev/) 
 
+[Jorge Castillo의 개인 블로그](https://jorgecastillo.dev/)
+
 </br>
 
 ## 기술 블로그
