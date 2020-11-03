@@ -30,6 +30,8 @@
 
 [Jorge Castillo의 개인 블로그](https://jorgecastillo.dev/)
 
+[권태환님의 개인 블로그](https://thdev.tech/)
+
 </br>
 
 ## 기술 블로그
