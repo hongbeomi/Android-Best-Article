@@ -50,6 +50,8 @@
 
 [ViewPager2 파헤치기](https://blog.gangnamunni.com/post/viewpager2) - 강남언니 기술 블로그
 
+[MVVM Anti Pattern](https://blog.gangnamunni.com/post/mvvm_anti_pattern/) - 강남언니 기술 블로그
+
 [TDDDDD 안드로이드에서 가능할까?](https://blog.gangnamunni.com/post/TDDDD_Android) - 강남언니 기술 블로그
 
 [Android GIF 인코더 빠르게 하기](https://d2.naver.com/helloworld/1565302) - 네이버 D2 기술 블로그
