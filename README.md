@@ -14,6 +14,10 @@
 
 [RecyclerView에서 텍스트 레이아웃 미리 계산하기](https://developers-kr.googleblog.com/2018/08/prefetch-text-layout-in-recyclerview.html) 
 
+[Functors, Applicatives, Monad를 코틀린으로 알아보기 - 총 3부작](https://medium.com/@lazysoul/kotlin-functors-applicatives-and-monads-in-pictures-part-1-3-a5ac668df83a) - Lazysoul님
+
+[모나드와 함수형 아키텍처](https://teamdable.github.io/techblog/Moand-and-Functional-Architecture) - 김성철님
+
 <br/>
 
 ## 개인 블로그 
