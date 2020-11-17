@@ -18,6 +18,8 @@
 
 [모나드와 함수형 아키텍처](https://teamdable.github.io/techblog/Moand-and-Functional-Architecture) - 김성철님
 
+[LiveData Unit 테스트 및 일반적인 문제(영문)](https://medium.com/androiddevelopers/unit-testing-livedata-and-other-common-observability-problems-bb477262eb04) - Jose Alcerreca님
+
 <br/>
 
 ## 개인 블로그 
