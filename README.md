@@ -20,6 +20,8 @@
 
 [LiveData Unit 테스트 및 일반적인 문제(영문)](https://medium.com/androiddevelopers/unit-testing-livedata-and-other-common-observability-problems-bb477262eb04) - Jose Alcerreca님
 
+[android spans a powerful concept](https://blog.asamaru.net/2015/11/02/android-spans-a-powerful-concept/) - asamaru님
+
 <br/>
 
 ## 개인 블로그 
