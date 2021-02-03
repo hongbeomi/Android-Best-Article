@@ -22,6 +22,8 @@
 
 [android spans a powerful concept](https://blog.asamaru.net/2015/11/02/android-spans-a-powerful-concept/) - asamaru님
 
+[The "Real" Repository Pattern in Android](https://proandroiddev.com/the-real-repository-pattern-in-android-efba8662b754) - Denis Brandi님
+
 <br/>
 
 ## 개인 블로그 
