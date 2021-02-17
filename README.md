@@ -24,6 +24,10 @@
 
 [The "Real" Repository Pattern in Android](https://proandroiddev.com/the-real-repository-pattern-in-android-efba8662b754) - Denis Brandi님
 
+[Canvas save()와 restore()](https://simsimjae.tistory.com/269) - 심심재님
+
+[path의 cubicto를 사용해서 베지어 커브 그리기](https://buptfarmer.wordpress.com/2016/08/12/bezier-curves-in-android-using-path-cubicto/) - chanson님
+
 <br/>
 
 ## 개인 블로그 
