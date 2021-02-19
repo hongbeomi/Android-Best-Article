@@ -46,7 +46,9 @@
 
 [권태환님의 개인 블로그](https://thdev.tech/)
 
-</br>
+[소다님의 개인 블로그](https://soda1127.github.io/page/2/)
+
+</br>ㅎ
 
 ## 기술 블로그
 
