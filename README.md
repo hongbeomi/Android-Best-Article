@@ -30,6 +30,8 @@
 
 [path의 cubicto를 사용해서 베지어 커브 그리기](https://buptfarmer.wordpress.com/2016/08/12/bezier-curves-in-android-using-path-cubicto/) - chanson님
 
+[ConstraintLayout의 성능 이점에 대한 이해](https://abandonia.tistory.com/1) - IT 꼬맹이님
+
 <br/>
 
 ## 개인 블로그 
