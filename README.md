@@ -32,6 +32,8 @@
 
 [ConstraintLayout의 성능 이점에 대한 이해](https://abandonia.tistory.com/1) - IT 꼬맹이님
 
+[Android 앱 메모리 최적화](https://d2.naver.com/helloworld/539525) - 네이버 D2 박성현님
+
 <br/>
 
 ## 개인 블로그 
