@@ -36,6 +36,16 @@
 
 <br/>
 
+## 영상 자료 (한글 자막)
+
+[클린 아키텍처와 디자인](https://amara.org/ko/videos/0AtjY87egE3m/url/1216370/) - Robert C. Martin
+
+[소프트웨어 아키텍처의 중요성](https://amara.org/ko/videos/0AtjY87egE3m/url/1216370/) - 마틴 파울러(데브원영님 유튜브)
+
+[리팩토링의 중요성](https://www.youtube.com/watch?v=mNPpfB8JSIU) - 마틴 파울러(데브원영님 유튜브)
+
+<br/>
+
 ## 개인 블로그 
 
 [Pluu님의 블로그](https://pluu.github.io/)
