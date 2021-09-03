@@ -34,6 +34,14 @@
 
 [Android 앱 메모리 최적화](https://d2.naver.com/helloworld/539525) - 네이버 D2 박성현님
 
+[코드 리뷰 in 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-code-review-culture/) - 뱅크샐러드
+
+[카카오스토리 팀의 코드 리뷰 도입 사례 – 코드 리뷰, 어디까지 해봤니?](https://tech.kakao.com/2016/02/04/code-review/) - 카카오스토리
+
+[코드리뷰가 쏘아올린 작은공](https://techblog.woowahan.com/2712/) - 우아한 형제들
+
+[효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/) - LINE
+
 <br/>
 
 ## 영상 자료 (한글 자막)
