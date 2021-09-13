@@ -42,6 +42,12 @@
 
 [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/) - LINE
 
+[Android 어디까지 아세요 1 : Build Process](https://medium.com/mj-studio/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%95%84%EC%84%B8%EC%9A%94-1-build-process-df6a69f73337) - MJ Studio님
+
+[Android 어디까지 아세요 2-1 : background task, Service, Foreground Service](https://medium.com/mj-studio/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%95%84%EC%84%B8%EC%9A%94-2-1-service-foreground-service-e19cf74df390) - MJ Studio님
+
+[Android 어디까지 아세요 2-2 : Bound Service, IPC](https://medium.com/mj-studio/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%95%84%EC%84%B8%EC%9A%94-2-2-bound-service-ipc-87237c4a38ca) - MJ Studio님
+
 <br/>
 
 ## 영상 자료 (한글 자막)
