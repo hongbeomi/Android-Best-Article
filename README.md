@@ -50,6 +50,8 @@
 
 [코루틴과 스레드](https://aaronryu.github.io/2019/05/27/coroutine-and-thread/) - aaronryu님
 
+[알기 쉬운 코루틴 이론](https://cliearl.github.io/posts/android/coroutine-principle/) - cliearl님
+
 <br/>
 
 ## 영상 자료 (한글 자막)
