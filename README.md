@@ -84,6 +84,8 @@
 
 [소다님의 개인 블로그](https://soda1127.github.io/page/2/)
 
+[Chang W.doh님의 블로그](https://medium.com/til-kotlin-ko) - 안드로이드와 코틀린에 관련된 글 모음
+
 </br>
 
 ## 기술 블로그
