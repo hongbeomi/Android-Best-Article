@@ -108,7 +108,7 @@
 
 [Android 프로세스의 통신 메커니즘: 바인더](https://d2.naver.com/helloworld/47656) - 네이버 D2 기술 블로그
 
-[안드로이드 런처와 위젯 톺아보기(1) - 홈 화면도 앱이었다?](https://meetup.toast.com/posts/304) - TOAST 기술 블로그ㅎ
+[안드로이드 런처와 위젯 톺아보기(1) - 홈 화면도 앱이었다?](https://meetup.toast.com/posts/304) - TOAST 기술 블로그
 
 [안드로이드 런처와 위젯 톺아보기(2) - 설치된 앱들은 어디에?](https://meetup.toast.com/posts/306) - TOAST 기술 블로그
 
