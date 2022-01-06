@@ -54,12 +54,6 @@
 
 [코틀린-코루틴-개념-익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/) - wooooooak님
 
-[안드로이드 런처와 위젯 톺아보기(1) - 홈 화면도 앱이었다? - 유상현님](https://meetup.toast.com/posts/304)
-
-[안드로이드 런처와 위젯 톺아보기(2) - 설치된 앱들은 어디에? - 유상현님](https://meetup.toast.com/posts/306)
-
-[Android Unit Testing Framework - Robolectric - 박판기님](https://meetup.toast.com/posts/187)
-
 <br/>
 
 ## 영상 자료 (한글 자막)
@@ -113,4 +107,10 @@
 [Android GIF 인코더 빠르게 하기](https://d2.naver.com/helloworld/1565302) - 네이버 D2 기술 블로그
 
 [Android 프로세스의 통신 메커니즘: 바인더](https://d2.naver.com/helloworld/47656) - 네이버 D2 기술 블로그
+
+[안드로이드 런처와 위젯 톺아보기(1) - 홈 화면도 앱이었다?](https://meetup.toast.com/posts/304) - TOAST 기술 블로그ㅎ
+
+[안드로이드 런처와 위젯 톺아보기(2) - 설치된 앱들은 어디에?](https://meetup.toast.com/posts/306) - TOAST 기술 블로그
+
+[Android Unit Testing Framework - Robolectric](https://meetup.toast.com/posts/187) - TOAST 기술 블로그
 
