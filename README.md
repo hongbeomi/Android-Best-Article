@@ -58,6 +58,8 @@
 
 [안드로이드 런처와 위젯 톺아보기(2) - 설치된 앱들은 어디에? - 유상현님](https://meetup.toast.com/posts/306)
 
+[Android Unit Testing Framework - Robolectric - 박판기님](https://meetup.toast.com/posts/187)
+
 <br/>
 
 ## 영상 자료 (한글 자막)
