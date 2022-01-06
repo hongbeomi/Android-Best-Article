@@ -54,6 +54,10 @@
 
 [코틀린-코루틴-개념-익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/) - wooooooak님
 
+[안드로이드 런처와 위젯 톺아보기(1) - 홈 화면도 앱이었다? - 유상현님](https://meetup.toast.com/posts/304)
+
+[안드로이드 런처와 위젯 톺아보기(2) - 설치된 앱들은 어디에? - 유상현님](https://meetup.toast.com/posts/306)
+
 <br/>
 
 ## 영상 자료 (한글 자막)
