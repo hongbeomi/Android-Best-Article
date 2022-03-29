@@ -56,6 +56,9 @@
 
 [Kotlin을 위한 Coroutine 정리](https://kotlinworld.com/155?category=973476) - DevCho님
 
+[Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050) - Leland Rechardson(Compose 개발자)
+[Understanding Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd) - Leland Rechardson
+
 <br/>
 
 ## 영상 자료 (한글 자막)
