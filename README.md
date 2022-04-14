@@ -60,6 +60,10 @@
 
 [Understanding Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd) - Leland Rechardson
 
+[리사이클러뷰 해부하기 - 1](https://ilovecoffeee.tistory.com/4) - ilovecoffeee님
+
+[리사이클러뷰 해부하기 - 2](https://ilovecoffeee.tistory.com/5) - ilovecoffeee님
+
 <br/>
 
 ## 영상 자료 (한글 자막)
