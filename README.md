@@ -79,6 +79,7 @@
 <br/>
 
 ## 개인 블로그 
+[jake wharton님의 블로그](https://jakewharton.com/blog/)
 
 [Pluu님의 블로그](https://pluu.github.io/)
 
