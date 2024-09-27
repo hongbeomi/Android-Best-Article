@@ -76,6 +76,8 @@
 
 [RecyclerView ins and outs](https://www.youtube.com/watch?v=LqBlYJTfLP4) - Google I/O 2016
 
+[lazy-and-amazy-lazy-layouts-in-compose](https://www.droidcon.com/2022/08/01/lazy-and-amazy-lazy-layouts-in-compose/) - droidcon 2022
+
 <br/>
 
 ## 개인 블로그 
