@@ -78,6 +78,8 @@
 
 [lazy-and-amazy-lazy-layouts-in-compose](https://www.droidcon.com/2022/08/01/lazy-and-amazy-lazy-layouts-in-compose/) - droidcon 2022
 
+[best-practices-for-saving-ui-state-on-android 번역](https://wonsohana.wordpress.com/2023/06/06/google-io-2023-best-practices-for-saving-ui-state-on-android-%EC%A0%95%EB%A6%AC/) - google/io 2023
+
 <br/>
 
 ## 개인 블로그 
