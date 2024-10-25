@@ -64,6 +64,8 @@
 
 [리사이클러뷰 해부하기 - 2](https://ilovecoffeee.tistory.com/5) - ilovecoffeee님
 
+[Network 응답 처리, 이렇게 해보는건 어떤가요?: CallAdapter / Wrapper Class](https://blog.pfct.co.kr/network-calladapter-wrapper-class/) - pfct
+
 <br/>
 
 ## 영상 자료
