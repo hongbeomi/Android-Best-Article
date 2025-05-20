@@ -68,6 +68,8 @@
 
 [ViewModel이 구성변경에도 인스턴스를 유지하는 이유](https://medium.com/kenneth-android/viewmodel%EC%9D%B4-%EA%B5%AC%EC%84%B1%EB%B3%80%EA%B2%BD%EC%97%90%EB%8F%84-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-39461681eecf) - kenneth님
 
+[deep-dive-into-annotations-in-jetpack-compose](https://blog.shreyaspatil.dev/deep-dive-into-annotations-in-jetpack-compose) - shreyaspatil
+
 <br/>
 
 ## 영상 자료
