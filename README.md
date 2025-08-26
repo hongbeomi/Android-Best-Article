@@ -70,6 +70,8 @@
 
 [deep-dive-into-annotations-in-jetpack-compose](https://blog.shreyaspatil.dev/deep-dive-into-annotations-in-jetpack-compose) - shreyaspatil
 
+[compose-session-replay 구현하기](https://blog.bitdrift.io/post/implementing-session-replay-android-compose) - Miguel Juárez López
+
 <br/>
 
 ## 영상 자료
