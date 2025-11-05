@@ -72,6 +72,8 @@
 
 [compose-session-replay 구현하기](https://blog.bitdrift.io/post/implementing-session-replay-android-compose) - Miguel Juárez López
 
+[Compose의 gap 버퍼 쉽게 이해하기](https://proandroiddev.com/understanding-gap-buffers-in-jetpack-compose-the-60-year-old-algorithm-powering-modern-android-ui-a07ca2013e64) - Akshay Nandwana
+
 <br/>
 
 ## 영상 자료
